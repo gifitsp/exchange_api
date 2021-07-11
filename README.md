@@ -1,5 +1,5 @@
 # exchange_api
-exchange wrapped api
+wrapped api for huobi and gateio
 
 * Rest api for huobi and gateio (USDT perpetual swap)
 * no other dependency to install
